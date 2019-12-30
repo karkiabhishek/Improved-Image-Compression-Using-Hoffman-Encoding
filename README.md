@@ -1,2 +1,2 @@
 # MinorProject
-This is my minor project.
+This is our minor project.
